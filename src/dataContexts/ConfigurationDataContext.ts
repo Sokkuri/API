@@ -17,7 +17,7 @@ export default class ConfigurationDataContext extends BaseDataContext {
         return super.get<string[]>("getTags");
     }
 
-    public getSeasons(): Promise<RequestResult<SeasonInfo>> {
-        return super.get<SeasonInfo>("getSeasons");
+    public getSeasons(): Promise<RequestResult<SeasonInfo[]>> {
+        return super.get<SeasonInfo[]>("getSeasons");
     }
 }
