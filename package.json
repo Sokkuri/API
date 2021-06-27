@@ -1,6 +1,6 @@
 {
     "name": "@sokkuri/api",
-    "description": "Common data for apps that use the Sokkuri API",
+    "description": "Wrapper for the Sokkuri API",
     "version": "1.0.0",
     "license": "MPL-2.0",
     "main": "dist/index.js",
