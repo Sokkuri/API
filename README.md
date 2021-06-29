@@ -32,7 +32,7 @@ ApiConfig.init({
 
 ### Data Contexts
 
-Import the context that you need and use it like this, for example::
+Import the context that you need and use it like this, for example:
 ```ts
 import { AnimeDataContext } from "@sokkuri/api";
 
