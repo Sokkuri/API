@@ -18,7 +18,7 @@
     },
     "dependencies": {
         "@sokkuri/common": "^2.2.0",
-        "axios": "^0.24.0"
+        "axios": "^1.2.2"
     },
     "devDependencies": {
         "@sokkuri/eslint-config": "^3.0.0",
